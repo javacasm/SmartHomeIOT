@@ -1,6 +1,6 @@
 # Taller didáctico con micro:bit sobre IOT
 
-## Versión 0.99
+## Versión 0.99.1
 
 ![](./images/Licencia_CC_peque.png)
 
@@ -10,6 +10,6 @@ José Antonio Vacas Martínez
 
 ### https://elCacharreo.com
 
-Diciembre 2022
+Diciembre 2022 & Septiembre 2023
 
 
