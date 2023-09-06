@@ -1,6 +1,6 @@
 # Taller didáctico con micro:bit sobre IOT
 
-## Versión 0.99.1
+## Versión 0.99.2
 
 ![](./images/Licencia_CC_peque.png)
 
