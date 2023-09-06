@@ -16,6 +16,7 @@ IOT:
 		4.Montaje_practico_Termostaro.md \
 		5.Programa_IOT.md \
 		6.Raspberrypi.md \
-		7.IOT.md \
+		7.0.IOT.md \
+		7.1.BigData_IA.md \
 		8.Preguntas_frecuentes.md
 
