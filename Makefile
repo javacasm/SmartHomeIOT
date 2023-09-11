@@ -18,6 +18,7 @@ IOT:
 		6.Raspberrypi.md \
 		7.0.IOT.md \
 		7.1.BigData_IA.md \
-		7.2.arquitectura_IOT.md \
-		8.Preguntas_frecuentes.md
+		7.2.Arquitectura_IOT.md \
+		8.Preguntas_frecuentes.md \
+		9.Apendice_instalacion.md 
 
